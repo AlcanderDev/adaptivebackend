@@ -1,0 +1,26 @@
+{
+    "detection_list": [
+        "is_printed"
+    ], 
+    "detection_map": {
+        "contains_chart": 0, 
+        "contains_diagram": 0, 
+        "contains_graph": 0, 
+        "contains_table": 0, 
+        "is_blank": 0.0006, 
+        "is_inverted": 0, 
+        "is_not_math": 0.0007, 
+        "is_printed": 1
+    }, 
+    "error": "", 
+    "latex": "c ^ { 2 } - 9 c + 20", 
+    "latex_confidence": 0.9996948475086573, 
+    "latex_confidence_rate": 0.9999765157699585, 
+    "latex_list": [], 
+    "position": {
+        "height": 28, 
+        "top_left_x": 0, 
+        "top_left_y": 3, 
+        "width": 110
+    }
+}
